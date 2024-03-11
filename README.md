@@ -1,7 +1,7 @@
 # Spotify Charts
 
 ## Overview
-This project aims to analyze and visualize the country-wise and day-wise streams of all the top performing artists for the period 1st January, 2017 to 31st December, 2021. The data is sourced from Kaggle and has been processed using Power BI to create a database for easy management and analysis. Power BI has been used to explore the data visually and gain valuable insights.
+This project aims to analyze and visualize the country-wise and day-wise streams of all the top performing artists for the period 1st January, 2017 to 31st December, 2021. The data is sourced from Kaggle and has been processed using Power BI to create a database for easy management, analysis, and exploration of the data visually and to gain valuable insights.
 
 ## Dataset
 The dataset used in this project contains historical data of country-wise and day-wise streams of all the top performing artists for the period 1st January, 2017 to 31st December, 2021. The data has been sourced from [Kaggle](https://www.kaggle.com/datasets/dhruvildave/spotify-charts), which ensures its authenticity and reliability. The dataset includes information such as region, track title, artist, rank, streams, chart, and date.
